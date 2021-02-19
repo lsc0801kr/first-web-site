@@ -39,6 +39,7 @@ a {
 .tm-color-gray {
   color: rgba(0, 0, 0, 1);
   text-align: end;
+  font-size: 18px;
 }
 
 .tm-bg-black-transparent {
