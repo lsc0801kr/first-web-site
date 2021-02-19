@@ -238,7 +238,7 @@ a {
 }
 
 .tm-section-half {
-  padding: 55px;
+  padding: 55px 0px;
 }
 
 .tm-section-icon {
@@ -565,7 +565,7 @@ figure.effect-bubba:hover p {
   }
 
   .tm-section-wrap {
-    width: 100%;
+    width: 70%;
   }
 
   .tm-img-wrap a {
